@@ -1,2 +1,2 @@
 # phaser-template
-Phaser Template
+Phaser  Template
